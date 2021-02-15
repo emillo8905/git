@@ -1,4 +1,4 @@
-print('witaj Polsko!')
+print('witaj Macku!')
 
 class Menu():
     pass
